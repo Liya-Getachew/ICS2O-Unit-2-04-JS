@@ -1,5 +1,5 @@
 /* Created by: liya getachew
-* Created pm: Sep 28 2022
+* Created on: Oct 14 2022
 * This file contains the CSS for index.html
 */
 
@@ -30,4 +30,8 @@ p {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 5pt;
+}
+
+img {
+  padding-bottom: 15px;
 }
