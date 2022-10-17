@@ -22,7 +22,7 @@
 }
 
 body {
-  background-color: #eebece;
+  background-color: #ffe5ee;
 }
 
 p {
@@ -33,5 +33,10 @@ p {
 }
 
 img {
+  padding-bottom: 15px;
+}
+
+#area {
+  padding-top: 15px;
   padding-bottom: 15px;
 }
